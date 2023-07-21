@@ -42,7 +42,8 @@ By using the Software, the end user agrees to be bound by the terms and conditio
 |                 |                                           |                                                  |
 | ❌ No Se Permite | Usar el Software con fines comerciales    | Reclamar derechos de propiedad intelectual       |
 |                 | o no educativos.                          | sobre el Software, excepto los derechos          |
-|                 | Responsabilizar al licenciante por        | limitados expresamente indicados en la licencia. |
+|                 |                                           | limitados expresamente indicados en la licencia. |
+|                 | Responsabilizar al licenciante por        |                                                  |
 |                 | reclamos, daños u otras responsabilidades |                                                  |
 |                 | derivadas del uso o rendimiento del       |                                                  |
 |                 | Software.                                 |                                                  |
