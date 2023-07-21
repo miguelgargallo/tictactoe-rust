@@ -40,6 +40,7 @@ By using the Software, the end user agrees to be bound by the terms and conditio
 |                 | sobre resultados visualizados con fines   | otros en servidores locales, en la nube o en     |
 |                 | educativos e informativos.                | plataformas en línea.                            |
 |                 |                                           |                                                  |
+|                 |                                           |                                                  |
 | ❌ No Se Permite | Usar el Software con fines comerciales    | Reclamar derechos de propiedad intelectual       |
 |                 | o no educativos.                          | sobre el Software, excepto los derechos          |
 |                 |                                           | limitados expresamente indicados en la licencia. |
