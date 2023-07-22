@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Rust
 
-![tictactoe-rust](https://github.com/miguelgargallo/tictactoe-rust/assets/5947268/097e8209-f94c-4b8f-8a73-dc0a5dfd81a3)
+![GitHub_Thumbnail](https://github.com/miguelgargallo/tictactoe-rust/assets/5947268/35e069f4-eb14-4932-8ec7-8a47d4255816)
 
 This repository contains a simple implementation of the classic game "Tic-Tac-Toe" written in Rust. The game is played on a 3x3 board between two players, who take turns marking their symbol ('X' or 'O') on the board. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
@@ -47,4 +47,4 @@ Feel free to contribute to this project. Any contributions you make are greatly 
 
 ## License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of the Pylar AI software and associated documentation files (the "Software"), to visualize and use the Software solely for educational and informative purposes, subject to the following restrictions and conditions on the [License](./License).
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Pylar AI software and associated documentation files (the "Software"), to visualize and use the Software solely for educational and informative purposes, subject to the following restrictions and conditions on the [PYLAR AI EDUCATIVE ML LICENSE](./License).
