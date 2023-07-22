@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Rust
 
-![GitHub_Thumbnail](https://github.com/miguelgargallo/tictactoe-rust/assets/5947268/35e069f4-eb14-4932-8ec7-8a47d4255816)
+![Thumbnail_GitHub](https://github.com/miguelgargallo/tictactoe-rust/assets/5947268/0445742f-a3dd-42dc-8b13-db6356225c51)
 
 This repository contains a simple implementation of the classic game "Tic-Tac-Toe" written in Rust. The game is played on a 3x3 board between two players, who take turns marking their symbol ('X' or 'O') on the board. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
