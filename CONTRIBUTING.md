@@ -1,6 +1,6 @@
 # Contributing
 
-![tictactoe-rust](https://github.com/miguelgargallo/tictactoe-rust/assets/5947268/097e8209-f94c-4b8f-8a73-dc0a5dfd81a3)
+![Thumbnail_Contribution](https://github.com/miguelgargallo/tictactoe-rust/assets/5947268/a489845e-27b2-48b0-8263-b6928d80c1b9)
 
 Contributing to this project mainly involves submitting pull requests and managing forks. Here is a brief explanation of how you can do so:
 
