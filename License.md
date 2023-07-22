@@ -1,4 +1,6 @@
-PYLAR AI EDUCATIVE ML LICENSE
+# PYLAR AI EDUCATIVE ML LICENSE
+
+![Thumbnail_License](https://github.com/miguelgargallo/tictactoe-rust/assets/5947268/4ffc2725-d9ce-4d18-b40a-0ad09915f30b)
 
 Version 1.0, May 2023
 
